@@ -1,7 +1,7 @@
 # Project Overview
 This project demonstrates the use of a BERT-based model to classify news articles into different categories. BERT (Bidirectional Encoder Representations from Transformers) is a state-of-the-art model for NLP tasks. The goal of this project is to accurately predict the category of a news article based on its content.
 
-Key Features
+## Key Features
 
 Dataset: A news dataset containing thousands of articles, which are categorized into different sections.
 
