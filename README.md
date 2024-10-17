@@ -13,7 +13,7 @@ Datasets: The project splits the dataset into training, validation, and test set
 
 Evaluation: The trained model is evaluated on its ability to classify unseen news articles into the correct categories. 
 
-*Steps*
+"Steps"
 
 Preprocessing: News articles are cleaned and tokenized. The tokenizer used is BERT’s uncased version, which helps in reducing complexity by ignoring case distinctions.
 
