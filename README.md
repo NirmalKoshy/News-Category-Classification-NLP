@@ -11,9 +11,9 @@ Model Training: The BERT model is fine-tuned using the tokenized news data, allo
 
 Datasets: The project splits the dataset into training, validation, and test sets, with proper encoding for inputs like attention masks and input IDs.
 
-Evaluation: The trained model is evaluated on its ability to classify unseen news articles into the correct categories.
+Evaluation: The trained model is evaluated on its ability to classify unseen news articles into the correct categories. 
 
-Steps
+*Steps*
 
 Preprocessing: News articles are cleaned and tokenized. The tokenizer used is BERT’s uncased version, which helps in reducing complexity by ignoring case distinctions.
 
